@@ -1,0 +1,62 @@
+{
+    "good": [
+        "It is certain",
+        "It is decidedly so",
+        "Without a doubt",
+        "Yes definitely",
+        "You may rely on it",
+        "As I see it, yes",
+        "Most likely",
+        "Outlook good",
+        "Yes",
+        "Signs point to yes",
+        "There is a good chance",
+        "Quite likely",
+        "Hell, yes",
+        "There is a small chance",
+        "I hope so",
+        "Probably, i'm no genius",
+        "I hope so",
+        "I think so",
+        "Why not",
+        "It is obvious."
+    ],
+
+    "ok": [
+        "Reply hazy try again",
+        "Ask again later",
+        "Better not tell you now",
+        "Cannot predict now",
+        "Concentrate and ask again",
+        "Maybe",
+        "The future is uncertain",
+        "I would rather not say",
+        "Possibly",
+        "What do you think",
+        "Go and make your own choices",
+        "I'm to lazy to decide",
+        "If it benifits you, go ahead",
+        "Ain't nobody got time for this",
+        "What do you want to hear"
+    ],
+
+    "bad": [
+        "Don't count on it",
+        "My reply is no",
+        "My sources say no",
+        "Outlook not so good",
+        "Very doubtful",
+        "Not in your wildest dreams",
+        "I hope not",
+        "Sorry",
+        "Hell to the no",
+        "The future is bleak",
+        "Who cares",
+        "Never, ever, ever",
+        "Fuhgeddaboudit",
+        "No, get out",
+        "Never come back please",
+        "No way",
+        "Impossible"
+    ]
+}
